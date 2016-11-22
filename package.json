@@ -1,7 +1,6 @@
 {
   "name": "Nodejs_Bluemix_Class_00",
   "version": "0.1.0",
-  "main": "Nodejs_Bluemix_Class_00.js",
 	"private": true,
 	"scripts": {
        "start": "node Nodejs_Bluemix_Class_00.js"
@@ -13,8 +12,5 @@
 	"repository": {},
 	"engines": {
 		"node": "4.x"
-	}, 
-  "author": "",
-  "license": "ZZZ",
-  "readmeFilename": "README.md"
+	}
 }
