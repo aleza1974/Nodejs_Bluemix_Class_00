@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: Nodejs_Bluemix_Class_00  
+  name: nodejsbluemixclass00  
   host: Nodejs_Bluemix_Class_00
   disk_quota: 256M
